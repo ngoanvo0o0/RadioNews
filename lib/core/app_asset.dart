@@ -1,0 +1,42 @@
+class AppAsset {
+  const AppAsset._();
+
+  static const sushi1 = "assets/images/sushi1.png";
+  static const sushi2 = "assets/images/sushi2.png";
+  static const sushi3 = "assets/images/sushi3.png";
+  static const sushi4 = "assets/images/sushi4.png";
+  static const sushi5 = "assets/images/sushi5.png";
+  static const sushi6 = "assets/images/sushi6.png";
+  static const sushi7 = "assets/images/sushi7.png";
+  static const sushi8 = "assets/images/sushi8.png";
+  static const sushi9 = "assets/images/sushi9.png";
+  static const sushi10 = "assets/images/sushi10.png";
+  static const sushi11 = "assets/images/sushi11.png";
+  static const sushi12 = "assets/images/sushi12.png";
+  static const profileImage = "assets/images/profile_pic.png";
+  static const githubImage = "assets/images/github_pic.png";
+  static const emptyCart = "assets/images/empty_cart.png";
+  static const emptyFavorite = "assets/images/empty_favorite.png";
+  static const recordingBG = "assets/images/recordingBG.svg";
+  static const emptyEvent = "assets/images/emptyEvent.svg";
+  static const emptyCollection = "assets/images/emptyCollection.svg";
+  static const mixlr = "assets/images/Mixlr.svg";
+  static const moon = "assets/images/moon.svg";
+  static const play = "assets/images/play.svg";
+  static const searchIcon = "assets/images/searchIcon.svg";
+  static const sun = "assets/images/sun.svg";
+  static const user = "assets/images/userIcon.svg";
+  static const earthIcon = "assets/images/earth.svg";
+  static const pause = "assets/images/pause.svg";
+  static const downArrow = "assets/images/downArrow.svg";
+  static const goBack = "assets/images/goBack.svg";
+  static const goForward = "assets/images/goForward.svg";
+  static const speaker = "assets/images/speaker.svg";
+  static const sharing = "assets/images/sharing.svg";
+  static const mute = "assets/images/mute.svg";
+  static const openWave = "assets/images/openWave.svg";
+  static const closeWave = "assets/images/closeWave.svg";
+  static const copyright = "assets/images/copyright.svg";
+  static const menu = "assets/images/menuIcon.svg";
+  static const radioNewsLogo = "assets/images/radio_news_logo.png";
+}
