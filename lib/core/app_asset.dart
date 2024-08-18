@@ -39,4 +39,5 @@ class AppAsset {
   static const copyright = "assets/images/copyright.svg";
   static const menu = "assets/images/menuIcon.svg";
   static const radioNewsLogo = "assets/images/radio_news_logo.png";
+  static String radioNewsBackground = 'assets/images/bg_sgRadioNews.jpg';
 }
